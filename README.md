@@ -9,6 +9,5 @@
 - 🌱 I’m currently learning more on React.js and javascript
 - 💬 Ask me about **Frontend Development**
 - 📫 In the near future, I want to get into Full Stack Development
-- ⚡ Fun fact: If you follow me on GitHub, I will follow you back
 
 -------
